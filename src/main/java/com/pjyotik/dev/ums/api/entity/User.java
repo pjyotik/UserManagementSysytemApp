@@ -18,11 +18,9 @@ public class User {
     private Long userId;
     private String firstName;
     private String lastName;
-    // Custom Annotation created to validate the passed gender by the user, should be either male or female
-    private String gender;
+    private String gender; // Custom Annotation created to validate the passed gender by the user, should be either male or female
     private String dob;
-    // Calculated based on the DOB passed, cannot be less than 18 yrs
-    private int age;
+    private int age; // Calculated based on the DOB passed, cannot be less than 18 yrs
     private String nationality;
     private String phoneNumber;
     private String email;

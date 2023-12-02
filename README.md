@@ -33,7 +33,7 @@ Follow these steps to get the User Management System App up and running:
 
 1. Clone the Repository
 ```
-    git clone git@github.com:pjyotik/UserManagementSysytemApp.git
+git clone git@github.com:pjyotik/UserManagementSysytemApp.git
 ```
 
 2. Build the project
